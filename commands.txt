@@ -1,0 +1,2 @@
+start - Iniciar bot
+new - Nuevo producto
